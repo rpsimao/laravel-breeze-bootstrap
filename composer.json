@@ -1,5 +1,5 @@
 {
-    "name": "khadegd/laravel-breeze-bootstrap",
+    "name": "rpsimao/laravel-breeze-bootstrap",
     "description": "Minimal Laravel authentication scaffolding with Blade and Bootstrap.",
     "keywords": ["laravel", "auth"],
     "license": "MIT",
